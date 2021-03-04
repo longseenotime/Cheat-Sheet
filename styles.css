@@ -1,0 +1,17 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50;
+    background-color: ivory;
+    color: gray;
+    border-style: outset;
+    padding: 10px;
+}
+tr td{
+    border-style: solid;
+    color: gray;
+    background-color: ivory;
+    font-size: 30px;
+}
+tr td.code{
+    font-family: serif;
+}
