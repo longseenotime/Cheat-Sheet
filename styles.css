@@ -1,5 +1,5 @@
 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia;
     font-size: 50;
     background-color: ivory;
     color: gray;
@@ -7,11 +7,22 @@ h1{
     padding: 10px;
 }
 tr td{
+    font-family: Georgia;
     border-style: solid;
+    border-color: rgb(250, 242, 169);
     color: gray;
     background-color: ivory;
     font-size: 30px;
+    padding: 10px;
 }
-tr td.code{
-    font-family: serif;
+.code{
+    font-family: Helvetica;
+    font-style: italic;
+}
+tr th{
+    border-style: solid;
+    border-color: lightcoral;
+    background-color: lightcoral;
+    color: black;
+    padding: 10px;
 }
