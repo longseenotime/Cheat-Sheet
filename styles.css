@@ -16,7 +16,8 @@ tr td{
     padding: 10px;
 }
 .code{
-    font-family: serif;
+    font-family: Helvetica;
+    font-style: italic;
 }
 tr th{
     border-style: solid;
